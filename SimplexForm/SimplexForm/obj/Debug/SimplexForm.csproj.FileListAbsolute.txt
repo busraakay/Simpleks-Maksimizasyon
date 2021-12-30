@@ -1,0 +1,10 @@
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\bin\Debug\SimplexForm.exe.config
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\bin\Debug\SimplexForm.exe
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\bin\Debug\SimplexForm.pdb
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.Form1.resources
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.Properties.Resources.resources
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.csproj.GenerateResource.cache
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.exe
+C:\Users\busra\source\repos\SimplexForm\SimplexForm\obj\Debug\SimplexForm.pdb
